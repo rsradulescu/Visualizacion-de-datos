@@ -5,3 +5,8 @@ h1, h2, h3 {
 body {
   font-family: 'Verdana',sans-serif, 'Courier New', Courier, monospace;
   }
+
+#viz1,#viz2,#viz3{
+    width: 80%;
+    height: 300px;
+}
